@@ -6,8 +6,8 @@ package tabwriter_test
 
 import (
 	"fmt"
+	"github.com/kravlad/tabwriter"
 	"os"
-	"mkuznets.com/go/tabwriter"
 )
 
 func ExampleWriter_Init() {

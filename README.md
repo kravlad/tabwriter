@@ -7,5 +7,5 @@ It uses [mattn/go-runewidth](https://github.com/mattn/go-runewidth) to account f
 # Installation
 
 ```
-go get mkuznets.com/go/tabwriter
+go get github.com/kravlad/tabwriter
 ```

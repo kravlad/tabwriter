@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	. "mkuznets.com/go/tabwriter"
+	. "github.com/kravlad/tabwriter"
 )
 
 type buffer struct {
